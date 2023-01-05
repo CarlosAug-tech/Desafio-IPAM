@@ -58,7 +58,7 @@ function InformationSheet({ data }: IInformationSheetProps) {
                                 {data.municipio['regiao-imediata'].nome}
                             </span>
                         </BodyDescriptionInfoSheet>
-                        <TitleInfoSheet>Região-Intermediaria</TitleInfoSheet>
+                        <TitleInfoSheet>Região-Intermediária</TitleInfoSheet>
                         <BodyDescriptionInfoSheet>
                             <strong>Nome:</strong>
                             <span>

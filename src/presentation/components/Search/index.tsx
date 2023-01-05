@@ -15,7 +15,7 @@ function Search({ search, setSearch }: ISearchProps) {
         <Container>
             <Input
                 type="text"
-                placeholder="Busca por estado, município, distrito, região-imediata/intermediaria.."
+                placeholder="Busca por estado, município, distrito, região-imediata/intermediária.."
                 icon={FaSearch}
                 onChange={(e) => setSearch(e.target.value)}
                 value={search}

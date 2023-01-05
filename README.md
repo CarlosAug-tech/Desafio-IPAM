@@ -4,7 +4,7 @@
 
 ## 📋 Sobre
 
-Projeto feito para o desafio de teste de Desenvolvedor Front-end da IPAM, desenvolvido com o React e o template em Typescript, utilizando a API do IBGE (https://servicodados.ibge.gov.br/api/docs/localidades) para realizar as consultas nescessarias e colocando essas informações em Selects para o usuário buscar seu Estado, Município e Distrito de preferencia, assim podendo salva-lo no local storage do navegador e também podendo ver informações do mesmo mais detalhadas atravéis de modais e podendo até mesmo excluir o distrito de sua preferencia. A listagem destes distritos salvos no local storage conta também com uma paginação e busca por (Estado, Município, Distrito, Região-intermediaria/imediaiata, Mesorregião e Microrregião).
+Projeto feito para o desafio de teste de Desenvolvedor Front-end da IPAM, desenvolvido com o React e o template em Typescript, utilizando a API do IBGE (https://servicodados.ibge.gov.br/api/docs/localidades) para realizar as consultas necessárias e colocando essas informações em Selects para o usuário buscar seu Estado, Município e Distrito de preferência, assim podendo salva-lo no local storage do navegador e também podendo ver as informações do mesmo mais detalhadas através de modais e podendo até mesmo excluir o distrito de sua preferência. A listagem destes distritos salvos no local storage conta também com uma paginação e busca por (Estado, Município, Distrito, Região-intermediária/imediata, Mesorregião e Microrregião).
 
 ## 💡 Tecnologias Utilizadas
 
@@ -14,7 +14,7 @@ Projeto feito para o desafio de teste de Desenvolvedor Front-end da IPAM, desenv
 - [Styled-Components](https://styled-components.com/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 
-## 💻 Métodologias Utilizadas
+## 💻 Metodologias Utilizadas
 
 - [SOLID]
 - [Clean-Architecture]
